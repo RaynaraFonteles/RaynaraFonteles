@@ -18,3 +18,4 @@ Olá, bem-vindos ao meu GitHub, eu sou a Raynara Fonteles!
 </div><br/>
 
 Cursando o último semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, sempre disposta a aprender e a crescer, sabendo que o conhecimento não acaba.
+Obrigada pela visita! \o/
