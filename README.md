@@ -27,6 +27,6 @@ Olá, bem-vindos ao meu GitHub, eu sou a Raynara Fonteles!
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br/>
 
-Cursando o último semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, sempre disposta a aprender e a crescer, sabendo que o conhecimento não acaba.
+Cursando o último semestre de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre disposta a aprender e a crescer.
 
 Obrigada pela visita! \o/
